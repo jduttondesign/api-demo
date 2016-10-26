@@ -1,0 +1,11 @@
+body {
+	h1{
+		color: green;
+	}
+}
+
+.search-bar{
+	width: 50%;
+	background-color: pink;
+	text-align: center;
+}
